@@ -1,4 +1,4 @@
-# spaceship-game
+# Spaceship Game
 Projeto da disciplina Sistemas Operacionais 1, com intuito de criar uma biblioteca de threads em nível de usuário e usá-la em um jogo de naves.
 
 ## Pré-requisitos
